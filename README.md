@@ -16,7 +16,7 @@
     <a href="https://github.com/MohammadRokib/Simple_Bank"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/MohammadRokib/Simple_Bank">View Demo</a>
+    <a href="https://mohammadrokib.github.io/Photo_album_Module8/">View Demo</a>
     ·
     <a href="https://github.com/MohammadRokib/Simple_Bank/issues">Report Bug</a>
     ·
@@ -43,11 +43,7 @@
       </ul>
     </li>
     <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
 </details>
 
